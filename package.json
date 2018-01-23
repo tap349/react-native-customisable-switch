@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/baderahmed/react-native-customisable-switch/issues"
   },
-  "homepage": "https://github.com/baderahmed/react-native-customisable-switch/tree/commit-ish#readme"
+  "homepage": "https://github.com/baderahmed/react-native-customisable-switch/tree/commit-ish#readme",
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
 }
